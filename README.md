@@ -20,4 +20,4 @@ python server.py
 
 [comment]: <> (From here on all the links)
 
-[pyserver]: hhttps://docs.python.org/2/library/socketserver.html "A framework for network servers"
+[pyserver]: https://docs.python.org/2/library/socketserver.html "A framework for network servers"
